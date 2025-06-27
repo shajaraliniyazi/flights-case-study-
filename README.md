@@ -76,7 +76,7 @@ This case study explores a real-world flight dataset using advanced SQL techniqu
 ## 16. >3 Hour City Pairs
 - City pairs with **avg. duration > 3 hours** identified.
 
-## 17–18. Time Gri
+## 17–18. Time Grid
 - Grids show **flight frequencies and average prices** by **weekday & time block** from **Delhi and Bangalore**.
 
 
