@@ -84,3 +84,11 @@ This case study explores a real-world flight dataset using advanced SQL techniqu
 ## ✅ Tools
 - MySQL 8.0+
 - Excel (optional for visualization)
+
+## 📬 Contact
+
+If you found this helpful or would like to collaborate on similar projects:
+
+**GitHub**: [shajaraliniyazi](https://github.com/shajaraliniyazi)  
+**LinkedIn**: [https://www.linkedin.com/in/shajar-ali-niyazi-ab02352b7/](https://www.linkedin.com/in/shajar-ali-niyazi-ab02352b7/)  
+**Email**: [aligsjafar@gmail.com](mailto:aligsjafar@gmail.com)
